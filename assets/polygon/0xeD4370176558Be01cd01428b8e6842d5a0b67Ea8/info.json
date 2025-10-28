@@ -1,0 +1,11 @@
+{
+  "name": "NEXORA Token",
+  "symbol": "NXO",
+  "type": "POLYGON",
+  "decimals": 18,
+  "description": "Official token of the NEXORA ecosystem",
+  "website": "https://nexora.locker",
+  "explorer": "https://polygonscan.com/token/0xeD4370176558Be01cd01428b8e6842d5a0b67Ea8",
+  "status": "active",
+  "id": "0xeD4370176558Be01cd01428b8e6842d5a0b67Ea8"
+}
